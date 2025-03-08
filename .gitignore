@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+__pycache__/
+*.log
+
+# Ignore Virtual Environment
+myenv/
+.env
+
+# Ignore Data Files
+data/*.pdf
+data/*.docx
+data/*.csv
+
+# Ignore Models
+models/*.pkl
